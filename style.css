@@ -1,0 +1,119 @@
+#profile-pic {
+  border-radius: 50%;
+  box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+
+h3 {
+  font-size: 15px;
+  color: black;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  background-color: white;
+}
+
+div#intro h2 {
+  color: rgb(150, 150, 150);
+  font-weight: lighter;
+}
+
+
+div#intro p {
+  color: rgb(150, 150, 150);
+  font-weight: lighter;
+}
+
+table {
+  display: table;
+  margin: 0 auto;
+  width: 900px;
+  text-align: left;
+  color: rgb(150, 150, 150);
+  font-weight: lighter;
+  background-color: rgb(250, 250, 250);
+  border-spacing: 30px;
+  }
+
+table td {
+  padding-left: 0px;
+  }
+
+
+table p {
+  text-align: justify;
+  font-size: 15px;
+  font-weight: lighter;
+  background-color: rgb(250, 250, 250);
+  border-spacing: 30px transparent;
+}
+
+h1 {
+  color: black;
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+ul#connect-icons li {
+  display: inline;
+}
+
+ul#action-icons li {
+  display: inline;
+}
+
+div#see-yourself {
+  margin-top: 50px;
+  color: rgb(150, 150, 150);
+}
+
+div#see-yourself p {
+  font-size: 14px;
+}
+
+div#see-yourself ul li {
+  color: #A7BBEC
+}
+
+div#about-section ul li {
+  color: #598392
+}
+
+ul {
+  text-align: center;
+  list-style: inside;
+  padding: 0;
+}
+
+li {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+div#movies {
+  background-color: rgb(250, 250, 250);
+  padding-top: 20px;
+}
+
+div#about-section {
+padding-top: 70px;
+background-color: rgb(250, 250, 250);
+}
+
+div#about-section h2 {
+font-size: 15px;
+}
+
+div#about-section p {
+font-size: 14px;
+}
+
+.movie_pic {
+  border-radius: 3%;
+  box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.2);
+}
+
